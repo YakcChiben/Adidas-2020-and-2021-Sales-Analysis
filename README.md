@@ -1,4 +1,4 @@
-#Adidas 2020–2021 Sales Analysis Dashboard
+**Adidas 2020–2021 Sales Analysis Dashboard**
 
 Power BI Project | Sales Analytics | Data Visualization
 
