@@ -1,4 +1,4 @@
-**Adidas 2020–2021 Sales Analysis Dashboard**
+#**Adidas 2020–2021 Sales Analysis Dashboard**#
 
 Power BI Project | Sales Analytics | Data Visualization
 
@@ -80,7 +80,11 @@ Explore visuals, filters, and interactions
 
 
 🧑‍💻 About the Author
+
 Chiben Yak Elisha — Data Analyst (Power BI, Excel, SQL)
+
 Feel free to connect:
+
 LinkedIn: www.linkedin.com/in/chiben-elisha
+
 Email: chibenyakc@gmail.com
